@@ -112,7 +112,7 @@ resetBtn.onclick = () => {
   firstNameInput.classList.remove("is-invalid");
   lastNameInput.classList.remove("is-valid");
   lastNameInput.classList.remove("is-invalid");
-  emailInput.classList.remove("is-invalid");
+  emailInput.classList.remove("is-valid");
   emailInput.classList.remove("is-invalid");
   passInput.classList.remove("is-valid");
   passInput.classList.remove("is-invalid");
