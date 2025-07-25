@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : ศรุตยา อาชวกุล
 
-GitHub Page URL :
+GitHub Page URL : https://github.com/cpe207-2568/lab07v2-sarudhya
 
 ---
 
